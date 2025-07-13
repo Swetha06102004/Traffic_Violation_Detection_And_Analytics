@@ -42,10 +42,12 @@ st.markdown('<div class="subtitle">Upload traffic violation data to analyze frau
 st.markdown("---")
 
 
-model = joblib.load("../models/fraud_detection_model.pkl")
-le_violation_type = joblib.load("../encoders/le_violation_type.pkl")
-le_vehicle_type = joblib.load("../encoders/le_vehicle_type.pkl")
-le_fine_paid = joblib.load("../encoders/le_fine_paid.pkl")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+model = joblib.load(os.path.join(BASE_DIR, "..", "models", "fraud_detection_model.pkl"))
+le_violation_type = joblib.load(os.path.join(BASE_DIR, "..", "encoders", "le_violation_type.pkl"))
+le_vehicle_type = joblib.load(os.path.join(BASE_DIR, "..", "encoders", "le_vehicle_type.pkl"))
+le_fine_paid = joblib.load(os.path.join(BASE_DIR, "..", "encoders", "le_fine_paid.pkl"))
 
 features = [
     'Violation_Type', 'Fine_Amount', 'Speed_Limit', 'Recorded_Speed',
