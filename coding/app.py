@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 import plotly.express as px
 import base64
-
+import os
 
 st.set_page_config(page_title="🚨 Fraud Risk Analyzer", layout="wide", page_icon="🚔")
 
@@ -33,7 +33,8 @@ def set_bg_from_local(image_file):
         </style>
     """, unsafe_allow_html=True)
 
-set_bg_from_local("bg.jpg")
+bg_path = os.path.join(os.path.dirname(__file__), "bg.jpg")
+set_bg_from_local(bg_path)
 
 
 st.markdown('<div class="title">📊 Traffic Violation Detection and Analytics</div>', unsafe_allow_html=True)
