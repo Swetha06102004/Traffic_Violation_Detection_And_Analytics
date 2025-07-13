@@ -1,4 +1,4 @@
-                                                                                Traffic Violation Detection and Analytics
+Traffic Violation Detection and Analytics:
   An intelligent web-based tool built using Streamlit that analyzes traffic violation data to detect potential fraud patterns and provides visual summaries and risk classifications based on location.
 Features:
         * Upload traffic violation datasets in csv format. 
