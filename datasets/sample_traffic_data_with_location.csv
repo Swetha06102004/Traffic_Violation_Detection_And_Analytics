@@ -1,0 +1,201 @@
+Location,Violation_Type,Fine_Amount,Speed_Limit,Recorded_Speed,Alcohol_Level,Driver_Age,Vehicle_Type,Previous_Violations,Fine_Paid
+Porur,Speeding,1127,40,35,0.09,49,Private,3,Yes
+T Nagar,Signal Jump,1086,50,87,0.03,47,Private,3,Yes
+Kodambakkam,Speeding,1943,50,73,0.06,46,Commercial,2,Yes
+Porur,Speeding,1945,50,74,0.07,66,Private,1,Yes
+Velachery,Signal Jump,603,40,61,0.13,62,Private,4,Yes
+Guindy,Speeding,753,50,74,0.11,46,Private,4,No
+Kodambakkam,Signal Jump,1750,50,90,0.07,47,Commercial,4,No
+Kodambakkam,Signal Jump,1635,40,76,0.2,33,Private,2,No
+Porur,Signal Jump,1009,60,50,0.12,57,Commercial,3,Yes
+Tambaram,Speeding,1996,40,65,0.05,36,Commercial,2,No
+Velachery,Speeding,598,50,48,0.02,35,Private,4,Yes
+Porur,Speeding,652,50,49,0.03,18,Private,1,Yes
+Velachery,Speeding,1413,40,86,0.05,31,Private,0,No
+Velachery,Speeding,1377,60,47,0.03,68,Commercial,3,Yes
+Guindy,Speeding,837,50,76,0.04,64,Private,3,Yes
+Kodambakkam,Speeding,1321,50,78,0.06,67,Private,2,No
+T Nagar,Signal Jump,1686,50,43,0.03,19,Private,3,No
+Guindy,Speeding,1456,40,44,0.18,45,Private,4,No
+Guindy,Signal Jump,660,50,60,0.02,66,Private,4,Yes
+Velachery,Speeding,1300,60,30,0.1,67,Commercial,2,No
+Adyar,Speeding,897,50,83,0.08,47,Commercial,4,No
+Kodambakkam,Speeding,1800,50,32,0.2,55,Private,1,Yes
+Tambaram,Signal Jump,1315,60,45,0.02,68,Private,2,No
+Guindy,Signal Jump,1915,50,86,0.08,21,Private,1,No
+T Nagar,Signal Jump,1658,40,41,0.19,18,Private,0,No
+Adyar,Signal Jump,1718,40,45,0.17,25,Commercial,1,Yes
+Adyar,Speeding,900,40,53,0.16,46,Private,0,Yes
+Tambaram,Signal Jump,1139,60,57,0.05,56,Commercial,0,Yes
+Guindy,Speeding,1556,50,37,0.03,20,Commercial,1,Yes
+T Nagar,Speeding,1187,40,65,0.13,49,Private,2,No
+Kodambakkam,Signal Jump,959,60,37,0.19,27,Commercial,4,Yes
+Anna Nagar,Signal Jump,1454,50,87,0.11,27,Commercial,4,Yes
+T Nagar,Signal Jump,969,60,89,0.11,36,Commercial,0,No
+Tambaram,Signal Jump,1898,40,79,0.06,63,Commercial,0,No
+Adyar,Signal Jump,1545,40,57,0.15,51,Private,2,No
+Kodambakkam,Signal Jump,1249,40,70,0.04,50,Private,3,Yes
+T Nagar,Signal Jump,537,60,93,0.06,40,Commercial,1,Yes
+Anna Nagar,Signal Jump,729,60,56,0.09,45,Private,0,Yes
+Anna Nagar,Speeding,1888,40,92,0.1,49,Private,4,No
+Velachery,Signal Jump,1062,60,46,0.05,67,Private,2,No
+Velachery,Signal Jump,937,40,62,0.02,24,Private,1,Yes
+Porur,Speeding,1806,40,58,0.12,46,Private,2,No
+Tambaram,Signal Jump,526,50,42,0.06,25,Commercial,1,No
+Guindy,Speeding,725,60,75,0.12,18,Private,1,No
+T Nagar,Speeding,1800,40,64,0.03,20,Private,0,Yes
+T Nagar,Signal Jump,1297,40,35,0.1,41,Private,2,No
+Guindy,Speeding,783,60,98,0.11,40,Private,2,No
+Porur,Speeding,1378,50,76,0.01,25,Commercial,4,Yes
+Adyar,Speeding,1459,50,54,0.07,64,Commercial,4,Yes
+Adyar,Speeding,952,40,95,0.03,54,Commercial,0,No
+Porur,Signal Jump,1519,60,39,0.01,20,Commercial,0,No
+Adyar,Speeding,1315,50,85,0.2,68,Private,3,Yes
+Velachery,Signal Jump,1158,60,59,0.06,50,Commercial,4,Yes
+T Nagar,Speeding,1046,60,34,0.16,45,Private,1,No
+Porur,Speeding,1715,40,62,0.05,64,Private,2,No
+T Nagar,Speeding,1572,50,94,0.14,25,Private,0,No
+Guindy,Speeding,516,40,47,0.15,51,Private,2,No
+Anna Nagar,Signal Jump,1695,50,78,0.12,52,Private,2,Yes
+Velachery,Signal Jump,1743,50,40,0.09,49,Commercial,3,No
+Kodambakkam,Speeding,657,50,55,0.08,41,Commercial,4,No
+Velachery,Speeding,976,50,92,0.07,31,Commercial,0,Yes
+Porur,Signal Jump,1569,50,88,0.19,49,Commercial,2,No
+Kodambakkam,Speeding,1896,60,56,0.17,63,Private,0,Yes
+Anna Nagar,Speeding,1017,40,78,0.19,60,Commercial,1,No
+Porur,Speeding,598,60,62,0.02,33,Private,3,No
+Tambaram,Signal Jump,1560,50,30,0.15,21,Commercial,1,Yes
+T Nagar,Signal Jump,779,40,50,0.19,69,Private,0,Yes
+Anna Nagar,Signal Jump,1872,50,84,0.04,54,Private,0,No
+T Nagar,Speeding,996,40,35,0.01,38,Commercial,4,No
+Adyar,Speeding,801,60,98,0.15,31,Private,2,No
+Tambaram,Signal Jump,680,40,34,0.11,48,Private,2,Yes
+Tambaram,Signal Jump,1106,40,32,0.17,65,Commercial,1,No
+Anna Nagar,Signal Jump,1622,40,82,0.03,35,Private,3,Yes
+Tambaram,Signal Jump,1199,40,52,0.16,24,Commercial,2,Yes
+Kodambakkam,Speeding,1492,40,82,0.04,27,Commercial,4,No
+Tambaram,Signal Jump,1639,50,66,0.03,24,Commercial,1,Yes
+T Nagar,Speeding,690,40,46,0.03,50,Private,1,No
+T Nagar,Signal Jump,752,40,30,0.16,40,Private,4,No
+Porur,Speeding,1480,60,80,0.13,38,Private,3,No
+T Nagar,Signal Jump,1427,40,74,0.1,36,Commercial,4,No
+Porur,Signal Jump,1684,60,33,0.07,65,Private,3,No
+T Nagar,Signal Jump,1779,50,91,0.18,36,Commercial,4,Yes
+Kodambakkam,Signal Jump,1846,40,94,0.08,53,Commercial,4,Yes
+Guindy,Speeding,627,60,61,0.16,46,Private,0,No
+Porur,Signal Jump,517,60,63,0.09,35,Commercial,1,No
+Velachery,Speeding,1065,50,68,0.08,19,Private,4,Yes
+Adyar,Speeding,1069,40,55,0.09,18,Private,4,Yes
+Anna Nagar,Speeding,1846,40,63,0.06,64,Private,2,Yes
+T Nagar,Speeding,1185,60,83,0.15,22,Private,1,Yes
+Tambaram,Signal Jump,1125,40,32,0.1,37,Private,2,No
+Guindy,Speeding,1811,60,79,0.05,28,Commercial,1,No
+T Nagar,Speeding,1353,40,41,0.18,59,Commercial,2,Yes
+Tambaram,Speeding,1461,60,94,0.08,19,Commercial,4,No
+Adyar,Signal Jump,654,40,83,0.11,20,Private,4,Yes
+Adyar,Signal Jump,989,50,34,0.18,40,Private,0,No
+Adyar,Signal Jump,1909,40,86,0.12,29,Private,2,Yes
+Tambaram,Signal Jump,1284,40,46,0.02,37,Commercial,3,No
+T Nagar,Speeding,1627,50,76,0.19,22,Private,0,Yes
+Adyar,Speeding,1916,40,52,0.13,54,Commercial,2,Yes
+Kodambakkam,Signal Jump,745,50,43,0.07,55,Commercial,2,No
+Porur,Speeding,1699,40,95,0.03,47,Private,0,Yes
+Tambaram,Speeding,1562,60,80,0.16,26,Private,4,No
+Tambaram,Speeding,1258,60,67,0.12,51,Commercial,2,No
+T Nagar,Signal Jump,1037,40,93,0.11,61,Private,4,Yes
+Tambaram,Signal Jump,1420,40,67,0.18,52,Commercial,0,No
+Tambaram,Speeding,907,40,79,0.16,69,Private,4,No
+Adyar,Signal Jump,1024,60,59,0.03,39,Private,1,No
+T Nagar,Signal Jump,1327,40,80,0.06,61,Commercial,3,No
+Adyar,Signal Jump,1402,60,92,0.05,41,Private,2,No
+Porur,Signal Jump,535,50,81,0.15,34,Commercial,3,Yes
+Guindy,Signal Jump,1184,60,67,0.01,27,Private,4,No
+Porur,Speeding,519,60,59,0.11,47,Commercial,2,No
+Guindy,Signal Jump,820,50,80,0.15,63,Commercial,4,No
+Adyar,Speeding,1011,60,34,0.18,40,Private,1,No
+Porur,Speeding,899,40,58,0.07,49,Commercial,0,No
+T Nagar,Signal Jump,1153,40,33,0.16,34,Private,2,Yes
+Anna Nagar,Speeding,1471,60,39,0.02,67,Private,1,No
+Adyar,Speeding,970,40,85,0.17,68,Private,1,Yes
+Guindy,Speeding,1666,60,46,0.03,34,Commercial,2,Yes
+Kodambakkam,Signal Jump,1615,40,46,0.08,31,Commercial,4,Yes
+Guindy,Signal Jump,1877,40,98,0.16,26,Private,1,Yes
+Kodambakkam,Speeding,1333,60,63,0.03,57,Private,3,No
+Tambaram,Signal Jump,1226,40,35,0.05,19,Commercial,1,Yes
+Porur,Signal Jump,1353,60,82,0.14,62,Private,4,Yes
+Kodambakkam,Signal Jump,550,40,95,0.14,42,Private,4,No
+Guindy,Signal Jump,1074,40,72,0.13,56,Commercial,3,No
+Tambaram,Speeding,1713,50,52,0.14,26,Private,1,No
+Anna Nagar,Speeding,1648,50,84,0.11,39,Commercial,4,Yes
+T Nagar,Signal Jump,649,60,45,0.05,60,Private,2,No
+T Nagar,Signal Jump,813,50,37,0.07,63,Commercial,0,No
+T Nagar,Speeding,1069,60,33,0.04,21,Private,0,Yes
+Kodambakkam,Speeding,1865,50,33,0.18,43,Private,0,No
+Anna Nagar,Signal Jump,804,40,85,0.12,46,Commercial,1,No
+Kodambakkam,Speeding,1181,60,54,0.08,62,Private,3,No
+Porur,Signal Jump,1337,60,96,0.09,51,Commercial,4,No
+Kodambakkam,Signal Jump,1577,40,96,0.19,40,Private,2,Yes
+Anna Nagar,Speeding,1502,60,56,0.03,54,Commercial,2,No
+Anna Nagar,Speeding,943,60,61,0.12,28,Commercial,1,No
+Porur,Signal Jump,1112,50,79,0.1,23,Commercial,0,Yes
+Anna Nagar,Signal Jump,1492,60,90,0.12,35,Commercial,1,No
+Guindy,Speeding,763,40,80,0.0,38,Private,3,Yes
+Anna Nagar,Signal Jump,1576,50,48,0.17,59,Private,3,No
+T Nagar,Speeding,1503,50,50,0.19,53,Commercial,4,Yes
+Guindy,Signal Jump,504,40,34,0.11,58,Commercial,4,Yes
+Guindy,Speeding,1626,40,71,0.14,55,Commercial,3,Yes
+Porur,Speeding,1719,50,90,0.18,51,Private,3,Yes
+Velachery,Speeding,1273,60,51,0.14,34,Private,3,No
+Velachery,Signal Jump,1376,50,50,0.03,54,Private,1,Yes
+Anna Nagar,Signal Jump,1491,40,99,0.12,42,Private,3,No
+Guindy,Speeding,1383,50,30,0.12,55,Commercial,2,Yes
+Velachery,Signal Jump,1873,40,34,0.08,29,Commercial,0,Yes
+Velachery,Speeding,546,50,41,0.15,40,Commercial,3,Yes
+Anna Nagar,Speeding,1366,60,75,0.19,59,Private,0,No
+Velachery,Signal Jump,1322,50,63,0.19,39,Private,1,Yes
+Kodambakkam,Signal Jump,1435,50,78,0.09,38,Private,0,No
+Tambaram,Speeding,1155,40,74,0.02,44,Commercial,1,No
+Porur,Signal Jump,768,40,56,0.2,48,Commercial,2,No
+Tambaram,Signal Jump,869,40,55,0.17,23,Private,1,No
+Anna Nagar,Speeding,1135,50,76,0.02,44,Commercial,1,No
+T Nagar,Speeding,1629,60,85,0.18,57,Private,4,No
+Porur,Signal Jump,1156,40,92,0.17,51,Private,3,No
+Anna Nagar,Speeding,619,40,77,0.1,29,Commercial,3,No
+Guindy,Speeding,1330,50,90,0.12,62,Private,2,No
+T Nagar,Signal Jump,1581,40,55,0.08,24,Commercial,2,Yes
+Tambaram,Speeding,1869,60,65,0.01,27,Private,3,Yes
+Anna Nagar,Speeding,1240,60,30,0.07,62,Commercial,4,Yes
+Guindy,Signal Jump,1997,40,37,0.16,34,Commercial,3,Yes
+Porur,Signal Jump,616,40,81,0.0,43,Commercial,4,Yes
+Porur,Speeding,1290,50,76,0.07,38,Private,2,No
+Adyar,Speeding,1650,60,85,0.08,45,Private,0,No
+Guindy,Signal Jump,1916,60,43,0.11,63,Commercial,2,No
+Kodambakkam,Signal Jump,1512,40,57,0.18,19,Commercial,2,No
+Velachery,Signal Jump,1581,50,31,0.07,60,Private,1,No
+T Nagar,Signal Jump,1133,60,55,0.07,18,Private,1,No
+Guindy,Speeding,1012,60,43,0.15,68,Private,1,No
+Adyar,Signal Jump,1301,50,88,0.09,53,Commercial,1,Yes
+Velachery,Signal Jump,1619,50,85,0.04,68,Private,4,Yes
+Velachery,Speeding,1641,60,36,0.09,43,Private,3,Yes
+Anna Nagar,Signal Jump,1059,60,32,0.03,46,Commercial,0,Yes
+Velachery,Speeding,987,50,52,0.04,38,Private,2,No
+Kodambakkam,Signal Jump,1760,60,47,0.1,28,Private,4,No
+Porur,Signal Jump,1396,40,67,0.08,57,Private,0,No
+Adyar,Signal Jump,1795,40,44,0.18,28,Commercial,4,Yes
+Velachery,Speeding,1712,50,93,0.07,53,Commercial,4,No
+Anna Nagar,Speeding,1203,50,57,0.12,66,Commercial,2,No
+Kodambakkam,Signal Jump,1970,50,68,0.13,56,Commercial,3,No
+Tambaram,Speeding,1080,40,86,0.0,57,Commercial,1,Yes
+Porur,Speeding,1289,60,46,0.13,52,Commercial,3,No
+Porur,Speeding,1360,40,73,0.04,51,Commercial,2,Yes
+Adyar,Speeding,746,60,54,0.19,64,Private,2,Yes
+Porur,Speeding,1599,40,46,0.03,41,Private,2,Yes
+Velachery,Speeding,653,60,42,0.08,39,Commercial,0,Yes
+Anna Nagar,Signal Jump,1958,40,54,0.02,22,Private,3,No
+Porur,Signal Jump,1496,50,97,0.2,50,Private,3,Yes
+Porur,Speeding,1609,40,39,0.1,53,Commercial,4,Yes
+Tambaram,Signal Jump,1196,60,96,0.12,64,Private,4,No
+Tambaram,Signal Jump,1808,40,47,0.01,37,Private,4,No
+T Nagar,Signal Jump,1743,40,63,0.15,36,Private,2,Yes
+Kodambakkam,Signal Jump,1592,40,37,0.04,52,Private,3,No
+Velachery,Speeding,1570,50,69,0.18,69,Private,2,Yes

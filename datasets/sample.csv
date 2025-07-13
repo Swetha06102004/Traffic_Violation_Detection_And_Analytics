@@ -1,0 +1,6 @@
+Violation_Type,Fine_Amount,Speed_Limit,Recorded_Speed,Alcohol_Level,Driver_Age,Vehicle_Type,Previous_Violations,Fine_Paid
+Speeding,500,60,85,0.08,32,Private,2,No
+Signal Jump,300,50,55,0.00,45,Commercial,4,Yes
+Speeding,400,70,90,0.10,28,Private,5,No
+Signal Jump,250,50,50,0.00,39,Private,0,Yes
+Speeding,600,60,100,0.12,24,Commercial,6,No

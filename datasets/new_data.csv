@@ -1,0 +1,4 @@
+Violation_Type,Fine_Amount,Speed_Limit,Recorded_Speed,Alcohol_Level,Driver_Age,Vehicle_Type,Previous_Violations,Fine_Paid
+1,2500,60,80,0.06,30,2,4,No
+0,1500,50,45,0.00,45,1,1,Yes
+2,3000,40,70,0.08,22,0,6,No
