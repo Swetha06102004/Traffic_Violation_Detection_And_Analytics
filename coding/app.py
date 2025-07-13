@@ -33,7 +33,7 @@ def set_bg_from_local(image_file):
         </style>
     """, unsafe_allow_html=True)
 
-set_bg_from_local("bg.jpg")
+set_bg_from_local("coding/bg.jpg")
 
 
 st.markdown('<div class="title">📊 Traffic Violation Detection and Analytics</div>', unsafe_allow_html=True)
